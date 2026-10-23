@@ -1,2 +1,2 @@
-# CinemaFans
-Traccia e recensisci film in un catalogo
+# TrentinoInterattivo
+Esplora il trentino. Monti e non solo.
