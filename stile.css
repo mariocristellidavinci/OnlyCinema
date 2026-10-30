@@ -1,12 +1,11 @@
 body {
-  font-family: Arial, sans-serif;
-  background-color: #a6c2ad;
-  color: #000000;
+  font-family: Georgia, serif;
+  background-color: #ffffff;
+  color: #3a2f1c;
 }
-
 h1 {
-  color: #379b9f;
+  color: #0b6e4f;
+  border-bottom: 3px solid #0b6e4f;
   text-align: center;
-  font-family: Helvetica;
-  font-style: bold;
+  font-size: 350%;
 }
